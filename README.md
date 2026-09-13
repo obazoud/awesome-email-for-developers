@@ -29,6 +29,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [Mailgun](https://www.mailgun.com/) - Transactional Email Delivery Service & API for Developers.
 - [Resend](https://resend.com/) – Email for developers.
 - [Sendgrid](https://sendgrid.com/) - Email API by developers, for developers.
+- [zaSend](https://zasend.com/) - Transactional email API and SMTP relay for verified domains.
 
 ---
 
