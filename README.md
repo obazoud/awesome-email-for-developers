@@ -28,6 +28,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [Postmark](https://postmarkapp.com/) – The email delivery service that people actually like.
 - [Mailgun](https://www.mailgun.com/) - Transactional Email Delivery Service & API for Developers.
 - [Resend](https://resend.com/) – Email for developers.
+- [Mailkube](https://mailkube.com/) – Full stack email infrastructure for builders.
 - [Sendgrid](https://sendgrid.com/) - Email API by developers, for developers.
 
 ---
