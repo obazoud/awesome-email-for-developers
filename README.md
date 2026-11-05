@@ -34,6 +34,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Self-Hosted
 
+- [Maily](https://github.com/stormsia/maily) – Self-hosted universal temporary email gateway and REST API aggregating 8+ disposable providers with dark-mode console and OTP extractor.
 - [Usesend](https://usesend.com/) - The open source email platform for everyone
 
 ---
