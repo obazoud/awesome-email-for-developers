@@ -65,6 +65,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [Mail Tester](https://www.mail-tester.com/) – Deliverability tests.
 - [dmarcian](https://dmarcian.com/) – DMARC, SPF, DKIM tools.
 - [OpenDMARC](https://github.com/trusteddomainproject/OpenDMARC) – Open source DMARC filter.
+- [PageUtil DMARC Report Analyser](https://pageutil.com/dmarc-report-analyser/) – Analyse aggregate reports locally, compare source IPs and alignment between batches, and export CSV.
 - [Postmark Spamcheck](https://spamcheck.postmarkapp.com/) – Spam score analyzer.
 
 ---
