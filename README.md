@@ -29,6 +29,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [Mailgun](https://www.mailgun.com/) - Transactional Email Delivery Service & API for Developers.
 - [Resend](https://resend.com/) – Email for developers.
 - [Sendgrid](https://sendgrid.com/) - Email API by developers, for developers.
+- [Tratto](https://tratto.email) – Transactional email API built in the EU, with campaigns and automation flows. SDKs for Node.js, Python and PHP.
 
 ---
 
